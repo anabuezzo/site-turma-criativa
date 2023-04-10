@@ -1,4 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
 
+    font-family: 'Anuphan', sans-serif;
+    
+}
 
 
 .cabecalho{
@@ -31,4 +39,8 @@
  
 .escola-div-conteudo{
     width: 35%;
+}
+
+.estudante-imagem{
+    width: 120px;
 }
